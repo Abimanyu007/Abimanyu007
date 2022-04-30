@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <div id="header" align="center">
 <div id="badges">
@@ -23,6 +22,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+### 😆: LOL :
+ <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="600" height="300"/>
+ <br/>
+  <img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="600" height="300"/>
+ <br/>
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"/>
+ <br/>
+  <img src="https://media.giphy.com/media/OX6urXL6QTKGk/giphy.gif" width="600" height="300"/>
+ <br/>
+  <img src="https://media.giphy.com/media/XAmAQNq7TbvSU/giphy.gif" width="600" height="300"/>
+ <br/>
+  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="600" height="300"/>
+ <br/>
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
