@@ -33,7 +33,7 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyu-rs-213b90176/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abimanyu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abimanyu-rs-213b90176/)
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -61,11 +61,6 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimanyu007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-
-
-**Abimanyu007/Abimanyu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my dreamz
 - 🌱 I’m currently learning fullstack & ML
