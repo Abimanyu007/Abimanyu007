@@ -31,8 +31,6 @@
  <br/>
   <img src="https://media.giphy.com/media/OX6urXL6QTKGk/giphy.gif" width="600" height="300"/>
  <br/>
-  <img src="https://media.giphy.com/media/XAmAQNq7TbvSU/giphy.gif" width="600" height="300"/>
- <br/>
   <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="600" height="300"/>
  <br/>
 
